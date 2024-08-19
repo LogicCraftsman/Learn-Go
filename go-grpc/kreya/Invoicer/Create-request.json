@@ -1,0 +1,8 @@
+{
+  "amount": {
+    "amount": "728",
+    "currency": "{{ faker.finance.currency }}"
+  },
+  "from": "logistical",
+  "to": "copying"
+}

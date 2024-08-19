@@ -1,0 +1,13 @@
+{
+  "details": {
+    "methodFqn": "Invoicer.Create"
+  },
+  "requests": [
+    {
+      "location": "Create-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc",
+  "importStreamId": "3a01e14c-b6c6-4b73-aa1d-892e9d8635c2"
+}
